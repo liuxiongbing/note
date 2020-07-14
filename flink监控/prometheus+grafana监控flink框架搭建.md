@@ -240,20 +240,22 @@
 1. 进入grafanaUI页 http://192.168.0.123:3000/?orgId=1，登录信息：admin/admin（sanniuben）
    ![](prometheus+grafana监控flink框架搭建.assets\Snipaste_2020-07-09_18-15-41.png)
 
-   ![](C:\Users\HT04\Favorites\链接\工具\学习\flink监控\prometheus+grafana监控flink框架搭建.assets\20200710104001.png)
+   ![](prometheus+grafana监控flink框架搭建.assets\20200710104001.png)
 
-   ![](C:\Users\HT04\Favorites\链接\工具\学习\flink监控\prometheus+grafana监控flink框架搭建.assets\20200710104320.png)
+   ![](prometheus+grafana监控flink框架搭建.assets\20200710104320.png)
 
-   ![](C:\Users\HT04\Favorites\链接\工具\学习\flink监控\prometheus+grafana监控flink框架搭建.assets\20200710104638.png)
+   ![](prometheus+grafana监控flink框架搭建.assets\20200710104638.png)
 
-   ![](C:\Users\HT04\Favorites\链接\工具\学习\flink监控\prometheus+grafana监控flink框架搭建.assets\20200710105420.png)
+   ![](prometheus+grafana监控flink框架搭建.assets\20200710105420.png)
 
-   ![](C:\Users\HT04\Favorites\链接\工具\学习\flink监控\prometheus+grafana监控flink框架搭建.assets\20200710105149.png)
+   ![](prometheus+grafana监控flink框架搭建.assets\20200710105149.png)
 
 
 
 参考资料：
 
-1.<https://juejin.im/post/5d79d804e51d453b7779d5ce#heading-25> 
+1.<https://flink.sojb.cn/monitoring/metrics.html>
 
-2.<https://songjiayang.gitbooks.io/prometheus/content/pushgateway/how.html> 
+2.<https://juejin.im/post/5d79d804e51d453b7779d5ce#heading-25> 
+
+3.<https://songjiayang.gitbooks.io/prometheus/content/pushgateway/how.html> 

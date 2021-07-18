@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-payne aa
-=======
-payne b
->>>>>>> b
